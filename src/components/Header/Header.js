@@ -284,7 +284,7 @@ const Header = ({ isDark }) => {
                   <li className="nav-item">
                     <a
                       className="nav-link"
-                      href="https://everyway.io"
+                      href="https://www.notion.so/Hi-I-m-Matt-ee7e1c177a204a3eae8dbfc8d45ce2ed"
                       
                     >
                       blog.
