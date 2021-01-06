@@ -54,42 +54,43 @@ const Works = () => {
               <li className="nav-item">
                 <a
                   className={`nav-link font-weight-bold text-uppercase ${
-                    activeLink === "website development" ? "active" : null
+                    activeLink === "wordpress" ? "active" : null
                   }`}
                   onClick={(e) => {
                     e.preventDefault();
-                    filterBy("website development");
+                    filterBy("wordpress");
                   }}
                 >
-                  Website Development
+                  Wordpress Development
                 </a>
               </li>
               <li className="nav-item">
                 <a
                   className={`nav-link font-weight-bold text-uppercase ${
-                    activeLink === "ui design" ? "active" : null
+                    activeLink === "frontend" ? "active" : null
                   }`}
                   onClick={(e) => {
                     e.preventDefault();
-                    filterBy("ui design");
+                    filterBy("frontend");
                   }}
                 >
-                  UI Design
+                  Frontend Design
                 </a>
               </li>
               <li className="nav-item">
                 <a
                   className={`nav-link font-weight-bold text-uppercase ${
-                    activeLink === "marketing" ? "active" : null
+                    activeLink === "communication design" ? "active" : null
                   }`}
                   onClick={(e) => {
                     e.preventDefault();
-                    filterBy("marketing");
+                    filterBy("communication design");
                   }}
                 >
-                  Marketing
+                  Communication Design
                 </a>
               </li>
+              
             </ListNav>
           </Box>
         </Container>

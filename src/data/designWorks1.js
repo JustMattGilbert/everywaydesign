@@ -15,13 +15,71 @@ import imgT14 from "../assets/image/jpg/agency/masonry/portfolio-mas-13.jpg";
 
 export const designWorks1 = [
   {
-    brand: `Inkhide`,
+    brand: `inkhide`,
     slug: `inkhide`,
     title: `Hand made, hierloom quality products that plant a tree with every sale.`,
-    categories: [`website development`, `marketing`],
+    categories: [`wordpress`],
     thumbnail: imgT1,
   },
+  {
+    brand: `Olde Towne Portsmouth`,
+    slug: `otpcl`,
+    title: `Membership Portal, Subscription Renewal Processing & Event Calendar for Olde Towne Portsmouth Civic League.`,
+    categories: [`wordpress`],
+    thumbnail: imgT2,
+  },
+
+  {
+    brand: `Patrona`,
+    slug: `patrona`,
+    title: `Website development as well as memberhsip management and full employee portal.`,
+    categories: [`wordpress`],
+    thumbnail: imgT3,
+  },
+  {
+    brand: `MDG Growth`,
+    slug: `mdggrowth`,
+    title: `Landing page and company overview built in react.`,
+    categories: [`frontend`],
+    thumbnail: imgT4,
+  },
+  {
+    brand: `Plantmatch`,
+    slug: `plantmatch`,
+    title: `Woocommerce website development with custom built API for inventory management & wholesale supplier integration.`,
+    categories: [`wordpress`],
+    thumbnail: imgT14,
+  },
+  {
+    brand: `IntellecTechs`,
+    slug: `intellectechs`,
+    title: `IntellecTechs offers a full range of information technology products and services to businesses and governments nationwide. `,
+    categories: [`wordpress`],
+    thumbnail: imgT13,
+  },
+  {
+    brand: `Carl Moen`,
+    slug: `carlmoen`,
+    title: `Wordpress portfolio site with substantial image optimization.`,
+    categories: [`wordpress`],
+    thumbnail: imgT11,
+  },
+  {
+    brand: `Bluewater Sales`,
+    slug: `bws`,
+    title: `Standard wordpress website development project.`,
+    categories: [`wordpress`],
+    thumbnail: imgT5,
+  },
+  {
+    brand: `Assett Inc.`,
+    slug: `assett`,
+    title: `Standard wordpress website development project.`,
+    categories: [`wordpress`],
+    thumbnail: imgT6,
+  },
+
   
-   
+
   
 ];
