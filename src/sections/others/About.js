@@ -42,7 +42,7 @@ const About = ({ hero = true, bg = "dark", ...rest }) => {
                     line-height: 1.5;
                   `}
                 >
-                  Professional jack of all trades with over 13 years of experience in development, design, marketing, growth hacking, and project management. A full stack developer specializing in small to medium business growth and wordpress development.
+                  Professional jack of all trades with over 13 years of experience in development, design, marketing, growth hacking, and project management. A full stack marketer with an established background in small to medium business growth and wordpress development.
                 </Text>
                 <Text color="light" className="mt-4">
                  I specialize in project management, business strategy, and both outbound &amp; inbound marketing.
